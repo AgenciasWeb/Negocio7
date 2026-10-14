@@ -95,6 +95,14 @@ p {
     background-color: rgba(225, 48, 108, 0.1);
 }
 
+/* Mercado Pago: Borde celeste */
+.btn-mercadopago { 
+    border-color: #009ee3;
+}
+.btn-mercadopago:hover {
+    background-color: rgba(0, 158, 227, 0.1);
+}
+
 /* Asegurar que los íconos de los botones no cambien de color */
 .btn i {
     font-size: 20px;
